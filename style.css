@@ -330,7 +330,7 @@ main .articles-container article aside p {
 
 	main .articles-container {
 		width: 100%;
-		margin: 6rem auto 0 auto;
+		margin: 4rem auto 0 auto;
 		grid-template-columns: repeat(3, 1fr);
 		gap: 1.2rem;
 	}
